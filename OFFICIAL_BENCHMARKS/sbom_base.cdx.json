@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:5faf353f-c719-56da-b2fd-6f87f101d17c",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T15:31:43Z",
+    "component": {
+      "type": "application",
+      "name": "TEXTILE_SIMULATION",
+      "version": "827460cc0408",
+      "bom-ref": "pkg:generic/anticloud/TEXTILE_SIMULATION@827460cc0408",
+      "purl": "pkg:generic/anticloud/TEXTILE_SIMULATION@827460cc0408",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "827460cc0408f99507ca49c889abfaab3c2b5cbe"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/rhaberer/4D-Printing-Programmable-Textiles"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
