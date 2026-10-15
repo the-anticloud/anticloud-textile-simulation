@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "389432db554cc37a6bd1844d791bfb59d1df5ae4",
-   "url": "https://github.com/kashinoleg/pakm-3d",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/zammori/Textile-Simulation",
+   "head": "6e893a4d57dd1683656176bd52e0a136f0da8a98",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/kashinoleg/pakm-3d"
   }
  },
  "license": "GPL-3.0",

@@ -1,14 +1,12 @@
 # TEXTILE_SIMULATION
 
-> from Ronny Haberer, Patrick Bösch for Rhino Win 5 & 6 (Bauhaus-Universität Weimar WS16/17)
+> A complete description of each module and of each classe is provided in the attached text file (world)
 
-**Category:** CLOTHING_MANUFACTURING · **Ecosystem:** python · **Vendored upstream:** https://github.com/kashinoleg/pakm-3d · **Pinned commit:** `389432db554cc37a6bd1844d791bfb59d1df5ae4` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/kashinoleg/pakm-3d` as the implementation for the `TEXTILE_SIMULATION` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** CLOTHING_MANUFACTURING · **Ecosystem:** python · **Vendored upstream:** https://github.com/zammori/Textile-Simulation · **Pinned commit:** `6e893a4d57dd1683656176bd52e0a136f0da8a98` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
-from Ronny Haberer, Patrick Bösch for Rhino Win 5 & 6 (Bauhaus-Universität Weimar WS16/17)
+A complete description of each module and of each classe is provided in the attached text file (world)
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -63,7 +61,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-908e9751836d57e03b4c4eeae570595c06e6ae3c1ac40d6f33fb4cbdf536d13b
+c46f8ee1701369a19daab650181254a8f1d25ddb368022e55f3a0fa5163475d8
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.
